@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pricelistpadel", "pricelistpadel.csproj", "{BF543CD2-5EA9-4DF6-828E-A676C4A20A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF543CD2-5EA9-4DF6-828E-A676C4A20A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF543CD2-5EA9-4DF6-828E-A676C4A20A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF543CD2-5EA9-4DF6-828E-A676C4A20A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF543CD2-5EA9-4DF6-828E-A676C4A20A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D22DB9BC-73AB-49DF-A027-FF6E235DF79C}
+	EndGlobalSection
+EndGlobal
